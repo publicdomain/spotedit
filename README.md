@@ -1,2 +1,2 @@
-# y0himbify
+# SpotEDIT
 Custom Spotify playlist editor.
